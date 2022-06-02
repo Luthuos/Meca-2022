@@ -1,0 +1,7 @@
+Aquí se guardará todo lo relacionado con la IA-Python
+
+Librerias a ocupar:
+    - Mediapipe
+        o
+    - TensorFlow
+    - otras
