@@ -1,13 +1,24 @@
 # Meca-2022
 Aquí se guardarán todos los codigos para el proyecto de mecatronica 1 (2022)
 
-## Tutoriales
-Deberán aprender a ocupar git, les dejo un tutorial y un breve resumen de los comndos más usados:
-
 ## Descargar GIT:
 https://git-scm.com/downloads
 
-### Video:
+## Tutoriales
+Deberán aprender a ocupar git, les dejo unos tutoriales y un breve resumen de los comndos más usados:
+También hay un par de cursos de youtube de Python.
+
+### Cursos Python:
+Introducción a Programación en Python - freeCodeCamp Español:
+https://www.youtube.com/watch?v=DLikpfc64cA
+
+Curso Python para Principiantes - Fazt:
+https://www.youtube.com/watch?v=chPhlsHoEPo&t=8849s
+
+Curso Python desde 0. - pildorasinformaticas:
+https://youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS
+
+### Videos GIT:
 Tutorial de GIT para principantes! - Usando la linea de comandos en Git:
 
 https://www.youtube.com/watch?v=kEPF-MWGq1w&t=21s
@@ -16,7 +27,7 @@ GIT / GITHUB [ Tutorial en Español - Parte 1 ] ♥ Inicio Rápido para Principi
 
 https://www.youtube.com/watch?v=hWglK8nWh60
 
-### Comandos:
+### Comandos GIT:
 git status
 
 git add .
