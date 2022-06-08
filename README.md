@@ -1,6 +1,11 @@
 # Meca-2022
 Aquí se guardarán todos los codigos para el proyecto de mecatronica 1 (2022)
 
+# Informe y diario de campo:
+DC: https://docs.google.com/document/d/1QKEhIjwGnVhS3xQJN2RgdM2V93Iqw5TBcoR-57-jniE/edit?usp=sharing
+
+Informe: Proximamente...
+
 ## Descargar GIT:
 https://git-scm.com/downloads
 
